@@ -1,0 +1,7 @@
+dominio\Docente.class
+servicio\DocenteServicio.class
+servicio\DocenteServicioImpl.class
+datos\DocenteDAO.class
+datos\DocenteDaoImpl.class
+web\DocenteBean.class
+web\ConfiguracionBean.class
